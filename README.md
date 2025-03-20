@@ -36,7 +36,6 @@ vUSDx serves as the primary payment token for the ISO TradeBot ecosystem, allowi
 
 ## ✨ Verified Contracts
 - [Ethereum Mainnet]()
-- [BNB Smart Chain]()
 
 ## ⚡ Logo & Metadata
 Token metadata and logos have been submitted to TrustWallet, MetaMask, and major listing services. [See /assets/logo.png](./assets/logo.png)
